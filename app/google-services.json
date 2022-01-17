@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340474981035",
+    "project_id": "al-ameen-mission-app",
+    "storage_bucket": "al-ameen-mission-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340474981035:android:ee1b6d12a3f02b12b6a5ee",
+        "android_client_info": {
+          "package_name": "in.co.webtrackers.aam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340474981035-6pe54bdo1da0mq96u0d5spebc07342g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADA72g_YPDXcsOW8R8zfxj8xbSJhRrlWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340474981035-6pe54bdo1da0mq96u0d5spebc07342g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
