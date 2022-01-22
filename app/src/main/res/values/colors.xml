@@ -3,27 +3,27 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="primary_50">#d8f2ff</color>
-    <color name="primary_100">#b7ddf4</color>
-    <color name="primary_200">#9ac3de</color>
-    <color name="primary_300">#79aac8</color>
-    <color name="primary_400">#6096b6</color>
-    <color name="primary_500">#4583a5</color>
-    <color name="primary_600">#377493</color>
-    <color name="primary_700">#28607c</color>
-    <color name="primary_800">#194c66</color>
-    <color name="primary_900">#01374e</color>
+    <color name="primary_50">#edf7ee</color>
+    <color name="primary_100">#cae7cd</color>
+    <color name="primary_200">#a7d8ac</color>
+    <color name="primary_300">#84c88a</color>
+    <color name="primary_400">#60b869</color>
+    <color name="primary_500">#479f4f</color>
+    <color name="primary_600">#377b3e</color>
+    <color name="primary_700">#27582c</color>
+    <color name="primary_800">#18351a</color>
+    <color name="primary_900">#081209</color>
 
-    <color name="complementary_50">#ffe4c9</color>
-    <color name="complementary_100">#f0c2aa</color>
-    <color name="complementary_200">#d19f85</color>
-    <color name="complementary_300">#b17c5f</color>
-    <color name="complementary_400">#996142</color>
-    <color name="complementary_500">#814827</color>
-    <color name="complementary_600">#763f21</color>
-    <color name="complementary_700">#663319</color>
-    <color name="complementary_800">#582613</color>
-    <color name="complementary_900">#481807</color>
+    <color name="complementary_50">#f1f1f3</color>
+    <color name="complementary_100">#d6d5dc</color>
+    <color name="complementary_200">#bab9c5</color>
+    <color name="complementary_300">#9e9dae</color>
+    <color name="complementary_400">#838197</color>
+    <color name="complementary_500">#69687e</color>
+    <color name="complementary_600">#525162</color>
+    <color name="complementary_700">#3a3a46</color>
+    <color name="complementary_800">#23232a</color>
+    <color name="complementary_900">#0c0c0e</color>
 
     <color name="analogous_1_50">#e1f2f0</color>
     <color name="analogous_1_100">#b3ded9</color>
